@@ -1,5 +1,5 @@
+import ytdl from "@distube/ytdl-core";
 import { Context } from "grammy";
-import ytdl from "ytdl-core";
 import getVideoUrls from "./utils/getVideoUrls.js";
 import secondsToHMS from "./utils/secondsToHMS.js";
 import ytdlDateToHumanReadable from "./utils/ytdlDateToHumanReadable.js";
