@@ -12,7 +12,7 @@
   "dependencies": {
     "@distube/ytdl-core": "^4.15.1",
     "dotenv": "^16.4.5",
-    "grammy": "^1.31.0"
+    "grammy": "^1.31.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.14.0",
