@@ -6,6 +6,7 @@
   "scripts": {
     "dev:start": "rm -r build/dev 2> /dev/null || true && esbuild src/index.ts --bundle --sourcemap --platform=node --packages=external --outfile=build/dev/index.cjs && node build/dev/index.cjs",
     "build": "rm -r build/dev 2> /dev/null || true && node ./esbuild.config.js",
+    "lint": "eslint .",
     "formatting:check": "yarn prettier --check .",
     "formatting:apply": "yarn prettier --write ."
   },
