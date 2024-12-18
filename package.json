@@ -11,7 +11,7 @@
     "formatting:apply": "yarn prettier --write ."
   },
   "dependencies": {
-    "@distube/ytdl-core": "^4.15.4",
+    "@distube/ytdl-core": "^4.15.8",
     "dotenv": "^16.4.7",
     "grammy": "^1.33.0"
   },
