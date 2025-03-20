@@ -11,7 +11,7 @@
     "formatting:apply": "prettier --write ."
   },
   "dependencies": {
-    "@distube/ytdl-core": "^4.16.4",
+    "@distube/ytdl-core": "^4.16.5",
     "dotenv": "^16.4.7",
     "grammy": "^1.35.0"
   },
@@ -24,6 +24,6 @@
     "globals": "^16.0.0",
     "prettier": "^3.5.3",
     "typescript": "^5.8.2",
-    "typescript-eslint": "^8.26.1"
+    "typescript-eslint": "^8.27.0"
   }
 }
