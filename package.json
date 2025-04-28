@@ -11,13 +11,13 @@
     "formatting:apply": "prettier --write ."
   },
   "dependencies": {
-    "@distube/ytdl-core": "^4.16.8",
+    "@distube/ytdl-core": "^4.16.9",
     "dotenv": "^16.5.0",
     "grammy": "^1.36.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.25.1",
-    "@types/node": "^22.15.1",
+    "@types/node": "^22.15.3",
     "esbuild": "^0.25.3",
     "eslint": "^9.25.1",
     "eslint-config-prettier": "^10.1.2",
