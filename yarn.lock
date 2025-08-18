@@ -211,10 +211,10 @@
     "@eslint/core" "^0.15.2"
     levn "^0.4.1"
 
-"@grammyjs/types@3.21.0":
-  version "3.21.0"
-  resolved "https://registry.yarnpkg.com/@grammyjs/types/-/types-3.21.0.tgz#b97c6d240e60adac48f67dd0cd124d3525f5e733"
-  integrity sha512-IMj0EpmglPCICuyfGRx4ENKPSuzS2xMSoPgSPzHC6FtnWKDEmJLBP/GbPv/h3TAeb27txqxm/BUld+gbJk6ccQ==
+"@grammyjs/types@3.22.1":
+  version "3.22.1"
+  resolved "https://registry.yarnpkg.com/@grammyjs/types/-/types-3.22.1.tgz#7c6f2b541f10af06a19cea6d35d0bbf18ea44d20"
+  integrity sha512-QJX0Y8lpjE+/nuTKGmxybKmvdrLHV7gqbhI/UXoWlJLWtowbwk+oW+ngfHKwegD+ewL2SX8+tQo/1E14Ma0qlw==
 
 "@humanfs/core@^0.19.1":
   version "0.19.1"
@@ -275,10 +275,10 @@
   resolved "https://registry.yarnpkg.com/@types/json-schema/-/json-schema-7.0.15.tgz#596a1747233694d50f6ad8a7869fcb6f56cf5841"
   integrity sha512-5+fP8P8MFNC+AyZCDxrB2pkZFPGzqQWUzpSeuuVLvm8VMcorNYavBqoFcxK8bQz4Qsbn4oUEEem4wDLfcysGHA==
 
-"@types/node@^22.17.1":
-  version "22.17.1"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-22.17.1.tgz#484a755050497ebc3b37ff5adb7470f2e3ea5f5b"
-  integrity sha512-y3tBaz+rjspDTylNjAX37jEC3TETEFGNJL6uQDxwF9/8GLLIjW1rvVHlynyuUKMnMr1Roq8jOv3vkopBjC4/VA==
+"@types/node@^22.17.2":
+  version "22.17.2"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-22.17.2.tgz#47a93d6f4b79327da63af727e7c54e8cab8c4d33"
+  integrity sha512-gL6z5N9Jm9mhY+U2KXZpteb+09zyffliRkZyZOHODGATyC5B1Jt/7TzuuiLkFsSUMLbS1OLmlj/E+/3KF4Q/4w==
   dependencies:
     undici-types "~6.21.0"
 
@@ -738,12 +738,12 @@ globals@^16.3.0:
   resolved "https://registry.yarnpkg.com/globals/-/globals-16.3.0.tgz#66118e765ddaf9e2d880f7e17658543f93f1f667"
   integrity sha512-bqWEnJ1Nt3neqx2q5SFfGS8r/ahumIakg3HcwtNlrVlwXIeNumWn/c7Pn/wKzGhf6SaW6H6uWXLqC30STCMchQ==
 
-grammy@^1.37.1:
-  version "1.37.1"
-  resolved "https://registry.yarnpkg.com/grammy/-/grammy-1.37.1.tgz#ddc4ac57e0c6575a4c2fbdcb30ce5fde583527a1"
-  integrity sha512-xR7Q1hp26EfFPXe9m0pulQLMoOJmBek0OyTHp07qW+mxfXuB/ZCrxGe65Cx0Cqmbj1X4Zvg6kuUKc6d88c30PQ==
+grammy@^1.38.1:
+  version "1.38.1"
+  resolved "https://registry.yarnpkg.com/grammy/-/grammy-1.38.1.tgz#edf4d1b5ca6a28b3fc9d20ffce3580ae20a2e161"
+  integrity sha512-aVBMeyYUjZ+rUEI+aV0T4himboXGs8Uf57c+vhtmHplPfgaRT04dyT9pG8R/GAmKeTUPh84GKO0u9IvaEGN6RA==
   dependencies:
-    "@grammyjs/types" "3.21.0"
+    "@grammyjs/types" "3.22.1"
     abort-controller "^3.0.0"
     debug "^4.3.4"
     node-fetch "^2.7.0"
