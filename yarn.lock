@@ -739,10 +739,10 @@ globals@^16.5.0:
   resolved "https://registry.yarnpkg.com/globals/-/globals-16.5.0.tgz#ccf1594a437b97653b2be13ed4d8f5c9f850cac1"
   integrity sha512-c/c15i26VrJ4IRt5Z89DnIzCGDn9EcebibhAOjw5ibqEHsE1wLUgkPn9RDmNcUKyU87GeaL633nyJ+pplFR2ZQ==
 
-grammy@^1.38.3:
-  version "1.38.3"
-  resolved "https://registry.yarnpkg.com/grammy/-/grammy-1.38.3.tgz#0344df40502daa661877974489c3f3963d33c668"
-  integrity sha512-1eQwNfxrRQ0JOFqd3n1nKqyWkHvCQRCNiH8e5aYm27mIjGPobgss58XN8GORC2ejAWM2+NSdUknrMhYj87cjGg==
+grammy@^1.38.4:
+  version "1.38.4"
+  resolved "https://registry.yarnpkg.com/grammy/-/grammy-1.38.4.tgz#f4703198edc21dd4feec2751508c966691ae8cb6"
+  integrity sha512-z07Kin3HgRwMdy40KUs+c9fmNBvGlSxGwcqY8NAH0a8KULGFYEMQaFAo3ge0V5tvmgr02Jgubkf54KjHLAMCbw==
   dependencies:
     "@grammyjs/types" "3.22.2"
     abort-controller "^3.0.0"
